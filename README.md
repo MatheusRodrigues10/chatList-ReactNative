@@ -1,5 +1,5 @@
-```ChatList
-# Tela de Conversas - Projeto em React Native
+
+# ChatList - Projeto em React Native
 
 Este projeto é uma tela inicial básica de conversas, inspirada no WhatsApp, desenvolvida com React Native. O objetivo deste projeto é servir como uma base para a construção de um aplicativo de mensagens mais completo.
 
