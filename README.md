@@ -38,16 +38,6 @@ Este projeto é uma tela inicial básica de conversas, inspirada no WhatsApp, de
    npx expo start
    ```
 
-## 🛠️ Estrutura do Projeto
-
-```
-/src
-  ├── components
-  │   └── ListItem.js       # Componente para exibição de cada item na lista
-  ├── data.js               # Dados das conversas
-  └── App.js                # Componente principal do aplicativo
-```
-
 ## 📌 Notas
 
 Este é apenas um esboço inicial da tela de conversas. Futuras funcionalidades podem incluir:
